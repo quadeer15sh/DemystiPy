@@ -18,7 +18,7 @@ Matplotlib
 
 ## Usage
 
-'''python
+'''
 from DemystiPy.pdistributions import Binomial, Gaussian
 
 b = Binomial()
