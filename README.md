@@ -41,7 +41,7 @@ b.cdf2([5,9],15,0.35)
 g.cdf(40,30,4)
 
 ### e.g. P( X > 21 ) mean = 30 std_dev = 4
-g.cdf(21,30,4,lower=True)
+g.cdf(21,30,4,upper=True)
 
 ### e.g. P( 30 < X < 35 ) mean = 30 std_dev = 4
 g.cdf2([30,35],30,4)
