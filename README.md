@@ -12,9 +12,9 @@ pip install DemystiPy
 
 ## Requirements
 
-Numpy
-Scipy
-Matplotlib
+- Numpy
+- Scipy
+- Matplotlib
 
 ## Usage
 
