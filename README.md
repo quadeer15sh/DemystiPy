@@ -27,7 +27,7 @@ g = Gaussian()
 ### e.g. P( X = 8) where no. of trials n = 15 and probability p = 0.35
 b.pmf(8,15,0.35) 
 
-e.g. P( X < 7) where no. of trials n = 15 and probability p = 0.35
+### e.g. P( X < 7) where no. of trials n = 15 and probability p = 0.35
 b.cdf(6,15,0.35)
 
 ### e.g. P( X > 9) where no. of trials n = 15 and probability p = 0.35
