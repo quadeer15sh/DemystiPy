@@ -6,9 +6,9 @@ This is a python module created for the purpose of visualizing and demystifying 
 
 Run the following to install:
 
-'''
+```
 pip install DemystiPy
-'''
+```
 
 ## Requirements
 
